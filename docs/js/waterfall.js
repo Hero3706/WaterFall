@@ -2,10 +2,10 @@
     var root = (typeof self == 'object' && self.self == self && self) ||
         (typeof global == 'object' && global.global == global && global) ||
         this || {};
-
+     
     // 修复 bind 函数
     Function.prototype.bind = Function.prototype.bind || function (context) {
-
+        
         if (typeof this !== "function") {
           throw new Error("Function.prototype.bind - what is trying to be bound is not callable");
         }
