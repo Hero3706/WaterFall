@@ -9,6 +9,10 @@
 
 原生 JavaScript 实现，无依赖。
 
+## 演示
+
+[https://hero3706.github.io/WaterFall/](https://hero3706.github.io/WaterFall/)
+
 ## 大小
 
 压缩后 5KB，gzip 压缩后更小。
