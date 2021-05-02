@@ -413,7 +413,6 @@
     proto.handleScroll = function() {
 
         var self = this;
-        console.log(self.checkScroll())
         if (self.checkScroll()) {
 
             self.appendPins();
