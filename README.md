@@ -16,7 +16,7 @@
 ## 下载
 
 ```js
-git clone git@github.com:mqyqingfeng/waterfall.git
+git clone https://github.com/Hero3706/WaterFall.git
 ```
 
 ## 使用
