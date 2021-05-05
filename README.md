@@ -26,13 +26,13 @@ git clone https://github.com/Hero3706/WaterFall.git
 ## 使用
 
 ```html
-<script src="path/WaterFall.js"></script>
+<script src="path/waterfall.js"></script>
 ```
 
 或者
 
 ```js
-import WaterFall from 'path/WaterFall.js'
+import WaterFall from 'path/waterfall.js'
 ```
 
 ## 示例
